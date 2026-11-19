@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github"
+            fetch="https://github.com/yanxiaaoyong/" />
+
+    <default remote="github"
+             revision="master"
+             sync-j="4" />
+
+    <project name="2222.git" path="2222" />
+    <project name="test.git" path="test" />
+</manifest>
